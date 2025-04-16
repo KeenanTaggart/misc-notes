@@ -1,4 +1,4 @@
-Got it. I’ll look into the frame rate performance of *Stunt Race FX* on the original Super Nintendo hardware using the Super FX chip. I’ll let you know what I find shortly.
+_Deep Research result when asking about the original frame rate of Stunt Race FX_
 
 # Stunt Race FX Frame Rate on Original SNES Hardware
 
